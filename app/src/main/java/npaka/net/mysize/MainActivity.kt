@@ -39,7 +39,6 @@ class MainActivity : AppCompatActivity() {
             putString("SLEEVE", sleeve.text.toString())
             putString("WAIST", waist.text.toString())
             putString("INSEAM", inseam.text.toString())
-
         }
     }
 }
